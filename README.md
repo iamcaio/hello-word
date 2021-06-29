@@ -1,2 +1,2 @@
 # hello-word
-My description :)
+i'm new in the programming world
